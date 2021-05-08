@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 用于显示编程语言比例
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gengyanlei&layout=compact)](https://github.com/gengyanlei/github-readme-stats)
 -->
 
 ### author is leilei
 ![leilei's github stats](https://github-readme-stats.vercel.app/api?username=gengyanlei&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gengyanlei&layout=compact)](https://github.com/gengyanlei/github-readme-stats)
+
