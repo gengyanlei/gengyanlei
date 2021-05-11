@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ## author is leilei 👋
 - 🎓 CSU(master's degree)
 - 📖 [leilei's blog](https://blog.csdn.net/LEILEI18A)
+- 🔭 Compute Vision(目标检测-语义分割-分类)
 
 <img src="https://github-profile-trophy.vercel.app/?username=gengyanlei&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
 
