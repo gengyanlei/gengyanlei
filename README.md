@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🎓 CSU(master's degree)
 - 📖 [**leilei's blog**](https://blog.csdn.net/LEILEI18A)
 - 🔭 Computer vision(目标检测-语义分割-分类)
+- ❤  Program language: Python C++ (Go Rust)-toLearn 
 
 <img src="https://github-profile-trophy.vercel.app/?username=gengyanlei&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
 
