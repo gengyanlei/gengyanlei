@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ## author is leilei 👋
 - 🎓 CSU(master's degree)
-- 📖 [**leilei's Bio**](https://gengyanlei.github.io/)
 - 📖 [**leilei's blog**](https://blog.csdn.net/LEILEI18A)
 - 🔭 Computer vision(目标检测-语义分割-分类)
 - ❤  Program language: Python C++ (Go Rust)-toLearn 
